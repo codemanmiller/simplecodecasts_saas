@@ -16,3 +16,11 @@ body {
     background-color: #fcf8e3;
     border-color: #faebcc;
 }
+
+.navbar-nav {
+  display: inline-block;
+}
+
+.navbar-nav>li {
+   display: inline-block;
+}
